@@ -1,250 +1,188 @@
 
-<!-- ═══════════════ PLAYER INTRO ═══════════════ -->
+<!-- ======================================= -->
+<!--        SIDDHI SANGLE - GITHUB README    -->
+<!-- ======================================= -->
 
-<h1 align="center">🎮 SIDDHI'S DEVELOPER QUEST</h1>
+<div align="center">
 
-<h2 align="center">👋 Hey, I'm Siddhi Sangle!</h2>
+# 🎮 PLAYER PROFILE: SIDDHI SANGLE
 
-<h3 align="center">
-💻 Computer Engineering Student | 📊 Data Analytics Intern
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Data+Analytics+Intern;Tech+Explorer+%7C+Problem+Solver;Turning+Ideas+Into+Digital+Solutions" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=B68CFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Developer+World!;Data+Analytics+%7C+Software+Development;Exploring+Cloud+Computing+%26+AWS;Learning.+Building.+Leveling+Up." />
-</p>
+<img src="https://img.shields.io/badge/PLAYER-SIDDHI%20SANGLE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LEVEL-THIRD%20YEAR-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20AND%20BUILDING-00C853?style=for-the-badge" />
 
-<p align="center">
-  📍 Nashik, Maharashtra, India
-</p>
+</div>
 
 ---
 
-<!-- ═══════════════ PLAYER CARD ═══════════════ -->
+## 🕹️ ABOUT THE PLAYER
 
-## 🕹️ LEVEL 01 — PLAYER PROFILE
+```yaml
+Name: Siddhi Sachin Sangle
+Role: Computer Engineering Student
+College: Matoshri College of Engineering and Research Centre, Nashik
+CGPA: 8.49
+Current Mission: Data Analytics Internship
+Location: Nashik, Maharashtra, India
 
-<table>
-<tr>
-<td width="65%">
+Interests:
+  - Data Analytics
+  - Software Development
+  - Cloud Computing
+  - Artificial Intelligence
+  - Database Management
 
-### 👩‍💻 About the Player
-
-I'm a Third-Year Computer Engineering student at **Matoshri College of Engineering and Research Centre, Nashik**.
-
-Passionate about Data Analytics, Software Development, Database Management and Cloud Computing.
-
-Currently working as a **Data Analytics Intern at Techredy IT Solutions, Nashik**, exploring datasets, identifying trends and generating meaningful insights using Python, Excel and SQL.
-
-🚀 Always ready to explore new technologies, solve problems and build innovative projects.
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" width="100%"/>
-
-### ⭐ PLAYER RANK
-
-**Computer Engineering Student**
-
-🏅 CGPA: 8.49
-
-</td>
-</tr>
-</table>
+Goal: Learn, Build, Explore and Grow!
+```
 
 ---
 
-<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+## 🚀 CURRENT MISSION
 
-## 🏆 LEVEL 02 — ACHIEVEMENT UNLOCKED
+<img align="right" width="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center">
-<img src="https://img.shields.io/badge/🐍_PYTHON-Explorer-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_DATA-Analyst-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️_AWS-Cloud_Learner-orange?style=for-the-badge"/>
-</p>
+**DATA ANALYTICS INTERN**
 
-<p align="center">
-<img src="https://img.shields.io/badge/👑_ACM--W-Vice_Chairperson-9B59B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_DEVELOPER-Always_Learning-2ECC71?style=for-the-badge"/>
-</p>
+🏢 Techredy IT Solutions, Nashik
 
-| 🏅 Achievement | 🎯 Description |
-|---|---|
-| 🐍 Python Explorer | Programming and data analysis |
-| 📊 Data Analyst | Working with datasets and insights |
-| ☁️ Cloud Learner | Exploring AWS and cloud computing |
-| 👑 Community Leader | ACM-W Vice Chairperson |
-| 🚀 Project Builder | Developing practical projects |
+- Working with datasets and data cleaning.
+- Exploring trends and patterns in data.
+- Using Python, Excel and SQL.
+- Creating charts and analytical reports.
+- Developing practical data analytics skills.
+
+<kbd>MISSION STATUS: IN PROGRESS</kbd>
 
 ---
 
-<!-- ═══════════════ SKILL TREE ═══════════════ -->
-
-## ⚡ LEVEL 03 — SKILL TREE
+## 🧩 SKILL TREE
 
 ### 💻 Programming Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,java"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🗄️ Database Skills
+### 🌐 Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ☁️ Cloud & Development Tools
+### 📊 Data Analytics & Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,git,github,react,arduino"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🧩 Other Tools
+### ☁️ Cloud & Tools
 
-- Canva
-- Excel
-- Database Management
-- SQL Queries
-
-### 🎯 Areas of Interest
-
-`Data Analytics` `DBMS` `Cloud Computing`  
-`Artificial Intelligence` `Web Development`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+## 🏆 PROJECT QUESTS
 
-## 💼 LEVEL 04 — CAREER MISSION
+### 🎯 QUEST 01 — Database Trigger Management System
 
-### 📊 Data Analytics Intern
+<kbd>DBMS</kbd> <kbd>MySQL</kbd> <kbd>SQL</kbd>
 
-**Techredy IT Solutions | Nashik**
+- Developed a database project focused on trigger management.
+- Worked with SQL triggers and database operations.
 
-<kbd>ACTIVE MISSION</kbd>
+### 🎯 QUEST 02 — Real-Time Interactive Shopping Platform
 
-- 📂 Collected and cleaned datasets for analysis.
-- 🔍 Identified trends and patterns to generate meaningful insights.
-- 🐍 Performed data analysis using Python, Excel and SQL.
-- 📈 Created charts and reports to support data-driven decision-making.
+<kbd>Web Development</kbd> <kbd>React</kbd> <kbd>Python</kbd> <kbd>AR</kbd>
 
-**Mission Skills:** Python | Excel | SQL | Data Analysis
+- Worked on an interactive shopping platform.
+- Explored web technologies and augmented reality concepts.
 
----
+### 🎯 QUEST 03 — NETRA
 
-<!-- ═══════════════ PROJECT QUESTS ═══════════════ -->
+**AI-Powered Assistive Application for Visually Impaired Users**
 
-## 🚀 LEVEL 05 — PROJECT QUESTS
+<kbd>Python</kbd> <kbd>OCR</kbd> <kbd>AI/ML</kbd> <kbd>TTS</kbd>
 
-### 🗄️ QUEST 01 — Database Trigger Management System
-<sub>📅 August 2026 | DATABASE MISSION</sub>
+- Developed an assistive website for independent reading and document accessibility.
+- Explored OCR, text-to-speech and document understanding features.
 
-- Developed a database management system using SQL triggers.
-- Automated database operations and enforced business rules.
-- Maintained data integrity and prevented invalid data modifications.
+### 🎯 QUEST 04 — Line Following Robot
 
-`MySQL` `SQL` `Database Triggers` `DBMS`
+<kbd>Arduino</kbd> <kbd>Embedded C</kbd> <kbd>IR Sensors</kbd>
 
----
+- Built a robot that follows a path using IR sensors.
+- Worked with motors and motor driver circuits.
 
-### 🛍️ QUEST 02 — Real-Time Interactive Shopping Platform
-<sub>📅 February 2026 | WEB DEVELOPMENT MISSION</sub>
+### 🎯 QUEST 05 — Smart Cabin Automation System
 
-- Developed a prototype of a live interactive shopping platform.
-- Integrated AR-based virtual try-on and size recommendation concepts.
-- Focused on improving the online shopping experience.
+<kbd>Arduino Uno</kbd> <kbd>IoT</kbd> <kbd>PIR</kbd> <kbd>LDR</kbd>
 
-`HTML` `CSS` `JavaScript` `React.js` `Python` `AR Technology`
+- Developed a smart cabin automation prototype.
+- Explored sensor-based automation using Arduino.
 
 ---
 
-### 👁️ QUEST 03 — NETRA
-<sub>📅 December 2025 | AI & ACCESSIBILITY MISSION</sub>
+## 🥇 ACHIEVEMENT UNLOCKED
 
-**Assistive Application for Visually Impaired Users**
+🏅 **ACM-W Student Chapter — Vice Chairperson**
 
-- Developed an assistive application to improve accessibility.
-- Implemented voice-based interaction and document-reading functionality.
-- Used OCR and Text-to-Speech technologies to make written information accessible.
+🏅 **D.Y. Patil Technical Event — Core Team Member**
 
-`Python` `HTML` `CSS` `JavaScript` `Tesseract.js` `OCR` `TTS` `AI/ML`
+🏅 **Smart India Hackathon — Internal Hackathon Activities**
 
----
+🏅 **Poster Competition Participation**
 
-### 🤖 QUEST 04 — Line Following Robot
-<sub>📅 May 2025 | ROBOTICS MISSION</sub>
-
-- Developed an autonomous robot using IR sensors and a microcontroller.
-- Implemented sensor-based navigation and motor control.
-- Enabled automatic movement along a predefined black line.
-
-`Arduino` `IR Sensors` `Embedded C` `DC Motors` `Motor Driver`
+🏅 **Data Analytics Internship — Techredy IT Solutions**
 
 ---
 
-### 💡 QUEST 05 — Smart Cabin Automation System
-<sub>📅 March 2025 | IoT MISSION</sub>
+## 📊 PLAYER STATISTICS
 
-- Developed a smart cabin automation system to control electrical appliances.
-- Used sensors and microcontroller technology for automation.
-- Improved convenience and energy efficiency.
+<div align="center">
 
-`Arduino Uno` `Embedded C/C++` `PIR Sensor` `LDR Sensor` `Relay Module` `IoT`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhisachinsangale10-glitch&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
 
----
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhisachinsangale10-glitch&theme=midnight-purple&hide_border=true" />
 
-<!-- ═══════════════ LEADERSHIP ═══════════════ -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhisachinsangale10-glitch&layout=compact&theme=midnight-purple&hide_border=true" />
 
-## 👑 LEVEL 06 — LEADERSHIP TROPHIES
-
-| 🏆 Trophy | Achievement |
-|---|---|
-| 👑 ACM-W Vice Chairperson | Leading and coordinating the ACM-W Student Chapter |
-| 🎯 Technical Event Core Team | D. Y. Patil College – Technical event coordination and execution |
-| 🚀 SIH Organizer | Organized and coordinated Smart India Hackathon activities |
-| 🎨 Event Organizer | Organized a poster-making competition for students |
+</div>
 
 ---
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+## 🌐 CONNECT WITH THE PLAYER
 
-## 📈 LEVEL 07 — GITHUB PERFORMANCE
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
-<!-- ═══════════════ CONTACT ═══════════════ -->
-
-## 🌐 FINAL MISSION — LET'S CONNECT!
-
-<p align="center">
 <a href="https://www.linkedin.com/in/siddhi-sangle-19182433b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9B59B6?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:siddhisachinsangale10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
 
-<p align="center">
-⭐ <b>Thanks for visiting my Developer World!</b> ⭐
-</p>
+<a href="https://github.com/siddhisachinsangale10-glitch">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<h3 align="center">
-🎮 KEEP LEARNING • KEEP BUILDING • KEEP LEVELING UP 🚀
-</h3>
+</div>
 
-<p align="center">
-<i>"Learning, Building, and Growing Through Technology!"</i>
-</p>
+---
+
+<div align="center">
+
+### 💜 THANKS FOR VISITING MY PROFILE!
+
+**"Every expert was once a beginner. Keep learning, keep building!"**
+
+<img src="https://komarev.com/ghpvc/?username=siddhisachinsangale10-glitch&label=PROFILE%20VISITORS&color=8A2BE2&style=for-the-badge" />
+
+</div>
